@@ -1,4 +1,4 @@
-authtoken: 1vzxVpVfPOZnWzVMCDaLL47Gocm_71a39PfkkZFLa49h4G92V
+authtoken: <YOUR-AUTH-TOKEN>
 tunnels:
   minecraft-server:
     addr: 25565
