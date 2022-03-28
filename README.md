@@ -10,5 +10,5 @@ This server only works on Windows machine only.
 
 ## Usage
 
-1. Edit the `ngrok.yml` file and paste your `ngrok auth token`.
+1. Edit the `ngrok.yml` file and paste your `ngrok auth token` (register first on [Ngrok](https://ngrok.com/)).
 2. Run `start.bat` 
